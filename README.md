@@ -1,5 +1,6 @@
 # Undervolting-Dell-laptops
 This is a workaround for Dell bios reseting Overclocking lock every time the machine reboots. I have been using this method for months now and it is working fine.
+
 ⚠ This Could damage your machine. Do it at your own risk
 
 ### 1. Get the addresses of Overclocking/CFG lock
